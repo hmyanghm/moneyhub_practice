@@ -1,7 +1,7 @@
 var app = app || {}
 app = (()=>{
 	let init =()=>{
-		alert('하이')
+		alert('확인')
 	}
 	return {init}
 })()
